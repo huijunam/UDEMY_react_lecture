@@ -5,7 +5,7 @@ Code snapshots and materials for our "React - The Complete Guide" course (https:
 
 1. Expense_app
 
-https://github.com/huijunam/UDEMY_react_lecture/assets/15117257/e45e05b5-9c91-45fc-b51c-1d52273b21e6
+https://github.com/huijunam/udemy_react_lecture/assets/15117257/7534294d-2570-4105-89a3-5d4f68064071
 
 2. investment_app
    
