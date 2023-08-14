@@ -9,8 +9,7 @@ https://github.com/huijunam/UDEMY_react_lecture/assets/15117257/e45e05b5-9c91-45
 
 2. investment_app
    
-https://github.com/huijunam/UDEMY_react_lecture/assets/15117257/96dffdfb-75de-4da2-8c8b-aac77aa04cc4
-
+https://github.com/huijunam/udemy_react_lecture/assets/15117257/d0359b30-b6cf-4e72-831e-d657c9e27e25
 
 ## ⚠️ commit 규칙
 
